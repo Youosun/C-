@@ -1,0 +1,5 @@
+hello, there is a '\n' at the end of the line 
+this file is used to test whether getline function can read the final '\n'
+
+It turns out that the getline function just negelect the final '\n'
+So when you are gonna print these lines,you need add a endl at the end of line by yourself

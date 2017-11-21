@@ -1,0 +1,5 @@
+COW (copy on write)写时复制技术
+GCC 4.x
+
+SSO (short string optimized) 短字符优先
+GCC 5.x
